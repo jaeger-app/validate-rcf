@@ -7,7 +7,7 @@
  * @version		1.0
  * @filesource 	./tests/Buckets/ReadableTest.php
  */
-namespace JaegerApp\tests\Buckets;
+namespace JaegerApp\tests\Containers;
 
 use JaegerApp\Validate;
 use JaegerApp\Validate\Rules\Rcf\Containers\Exists;
